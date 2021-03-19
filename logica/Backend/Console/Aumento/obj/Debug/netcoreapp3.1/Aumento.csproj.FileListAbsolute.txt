@@ -1,0 +1,13 @@
+C:\Users\olive\Desktop\Luana\Backend\Console\Aumento\bin\Debug\netcoreapp3.1\Aumento.exe
+C:\Users\olive\Desktop\Luana\Backend\Console\Aumento\bin\Debug\netcoreapp3.1\Aumento.deps.json
+C:\Users\olive\Desktop\Luana\Backend\Console\Aumento\bin\Debug\netcoreapp3.1\Aumento.runtimeconfig.json
+C:\Users\olive\Desktop\Luana\Backend\Console\Aumento\bin\Debug\netcoreapp3.1\Aumento.runtimeconfig.dev.json
+C:\Users\olive\Desktop\Luana\Backend\Console\Aumento\bin\Debug\netcoreapp3.1\Aumento.dll
+C:\Users\olive\Desktop\Luana\Backend\Console\Aumento\bin\Debug\netcoreapp3.1\Aumento.pdb
+C:\Users\olive\Desktop\Luana\Backend\Console\Aumento\obj\Debug\netcoreapp3.1\Aumento.csprojAssemblyReference.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\Aumento\obj\Debug\netcoreapp3.1\Aumento.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\Aumento\obj\Debug\netcoreapp3.1\Aumento.AssemblyInfo.cs
+C:\Users\olive\Desktop\Luana\Backend\Console\Aumento\obj\Debug\netcoreapp3.1\Aumento.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\Aumento\obj\Debug\netcoreapp3.1\Aumento.dll
+C:\Users\olive\Desktop\Luana\Backend\Console\Aumento\obj\Debug\netcoreapp3.1\Aumento.pdb
+C:\Users\olive\Desktop\Luana\Backend\Console\Aumento\obj\Debug\netcoreapp3.1\Aumento.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\olive\Desktop\AulaPOO\bin\Debug\netcoreapp3.1\AulaPOO.exe
+C:\Users\olive\Desktop\AulaPOO\bin\Debug\netcoreapp3.1\AulaPOO.deps.json
+C:\Users\olive\Desktop\AulaPOO\bin\Debug\netcoreapp3.1\AulaPOO.runtimeconfig.json
+C:\Users\olive\Desktop\AulaPOO\bin\Debug\netcoreapp3.1\AulaPOO.runtimeconfig.dev.json
+C:\Users\olive\Desktop\AulaPOO\bin\Debug\netcoreapp3.1\AulaPOO.dll
+C:\Users\olive\Desktop\AulaPOO\bin\Debug\netcoreapp3.1\AulaPOO.pdb
+C:\Users\olive\Desktop\AulaPOO\obj\Debug\netcoreapp3.1\AulaPOO.csprojAssemblyReference.cache
+C:\Users\olive\Desktop\AulaPOO\obj\Debug\netcoreapp3.1\AulaPOO.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\AulaPOO\obj\Debug\netcoreapp3.1\AulaPOO.AssemblyInfo.cs
+C:\Users\olive\Desktop\AulaPOO\obj\Debug\netcoreapp3.1\AulaPOO.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\AulaPOO\obj\Debug\netcoreapp3.1\AulaPOO.dll
+C:\Users\olive\Desktop\AulaPOO\obj\Debug\netcoreapp3.1\AulaPOO.pdb
+C:\Users\olive\Desktop\AulaPOO\obj\Debug\netcoreapp3.1\AulaPOO.genruntimeconfig.cache

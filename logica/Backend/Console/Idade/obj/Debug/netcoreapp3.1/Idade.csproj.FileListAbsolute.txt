@@ -1,0 +1,13 @@
+C:\Users\olive\Desktop\Luana\Backend\Console\Idade\bin\Debug\netcoreapp3.1\Idade.exe
+C:\Users\olive\Desktop\Luana\Backend\Console\Idade\bin\Debug\netcoreapp3.1\Idade.deps.json
+C:\Users\olive\Desktop\Luana\Backend\Console\Idade\bin\Debug\netcoreapp3.1\Idade.runtimeconfig.json
+C:\Users\olive\Desktop\Luana\Backend\Console\Idade\bin\Debug\netcoreapp3.1\Idade.runtimeconfig.dev.json
+C:\Users\olive\Desktop\Luana\Backend\Console\Idade\bin\Debug\netcoreapp3.1\Idade.dll
+C:\Users\olive\Desktop\Luana\Backend\Console\Idade\bin\Debug\netcoreapp3.1\Idade.pdb
+C:\Users\olive\Desktop\Luana\Backend\Console\Idade\obj\Debug\netcoreapp3.1\Idade.csprojAssemblyReference.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\Idade\obj\Debug\netcoreapp3.1\Idade.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\Idade\obj\Debug\netcoreapp3.1\Idade.AssemblyInfo.cs
+C:\Users\olive\Desktop\Luana\Backend\Console\Idade\obj\Debug\netcoreapp3.1\Idade.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\Idade\obj\Debug\netcoreapp3.1\Idade.dll
+C:\Users\olive\Desktop\Luana\Backend\Console\Idade\obj\Debug\netcoreapp3.1\Idade.pdb
+C:\Users\olive\Desktop\Luana\Backend\Console\Idade\obj\Debug\netcoreapp3.1\Idade.genruntimeconfig.cache

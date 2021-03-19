@@ -1,0 +1,13 @@
+C:\Users\olive\Desktop\Classes Estaticas\bin\Debug\netcoreapp3.1\Classes Estaticas.exe
+C:\Users\olive\Desktop\Classes Estaticas\bin\Debug\netcoreapp3.1\Classes Estaticas.deps.json
+C:\Users\olive\Desktop\Classes Estaticas\bin\Debug\netcoreapp3.1\Classes Estaticas.runtimeconfig.json
+C:\Users\olive\Desktop\Classes Estaticas\bin\Debug\netcoreapp3.1\Classes Estaticas.runtimeconfig.dev.json
+C:\Users\olive\Desktop\Classes Estaticas\bin\Debug\netcoreapp3.1\Classes Estaticas.dll
+C:\Users\olive\Desktop\Classes Estaticas\bin\Debug\netcoreapp3.1\Classes Estaticas.pdb
+C:\Users\olive\Desktop\Classes Estaticas\obj\Debug\netcoreapp3.1\Classes Estaticas.csprojAssemblyReference.cache
+C:\Users\olive\Desktop\Classes Estaticas\obj\Debug\netcoreapp3.1\Classes Estaticas.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\Classes Estaticas\obj\Debug\netcoreapp3.1\Classes Estaticas.AssemblyInfo.cs
+C:\Users\olive\Desktop\Classes Estaticas\obj\Debug\netcoreapp3.1\Classes Estaticas.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\Classes Estaticas\obj\Debug\netcoreapp3.1\Classes Estaticas.dll
+C:\Users\olive\Desktop\Classes Estaticas\obj\Debug\netcoreapp3.1\Classes Estaticas.pdb
+C:\Users\olive\Desktop\Classes Estaticas\obj\Debug\netcoreapp3.1\Classes Estaticas.genruntimeconfig.cache

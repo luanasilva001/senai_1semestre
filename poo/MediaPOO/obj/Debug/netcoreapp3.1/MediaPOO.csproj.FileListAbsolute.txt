@@ -1,0 +1,13 @@
+C:\Users\olive\Desktop\MediaPOO\bin\Debug\netcoreapp3.1\MediaPOO.exe
+C:\Users\olive\Desktop\MediaPOO\bin\Debug\netcoreapp3.1\MediaPOO.deps.json
+C:\Users\olive\Desktop\MediaPOO\bin\Debug\netcoreapp3.1\MediaPOO.runtimeconfig.json
+C:\Users\olive\Desktop\MediaPOO\bin\Debug\netcoreapp3.1\MediaPOO.runtimeconfig.dev.json
+C:\Users\olive\Desktop\MediaPOO\bin\Debug\netcoreapp3.1\MediaPOO.dll
+C:\Users\olive\Desktop\MediaPOO\bin\Debug\netcoreapp3.1\MediaPOO.pdb
+C:\Users\olive\Desktop\MediaPOO\obj\Debug\netcoreapp3.1\MediaPOO.csprojAssemblyReference.cache
+C:\Users\olive\Desktop\MediaPOO\obj\Debug\netcoreapp3.1\MediaPOO.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\MediaPOO\obj\Debug\netcoreapp3.1\MediaPOO.AssemblyInfo.cs
+C:\Users\olive\Desktop\MediaPOO\obj\Debug\netcoreapp3.1\MediaPOO.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\MediaPOO\obj\Debug\netcoreapp3.1\MediaPOO.dll
+C:\Users\olive\Desktop\MediaPOO\obj\Debug\netcoreapp3.1\MediaPOO.pdb
+C:\Users\olive\Desktop\MediaPOO\obj\Debug\netcoreapp3.1\MediaPOO.genruntimeconfig.cache

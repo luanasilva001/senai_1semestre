@@ -1,0 +1,13 @@
+C:\Users\olive\Desktop\Metodos_Construtores\bin\Debug\netcoreapp3.1\Metodos_Construtores.exe
+C:\Users\olive\Desktop\Metodos_Construtores\bin\Debug\netcoreapp3.1\Metodos_Construtores.deps.json
+C:\Users\olive\Desktop\Metodos_Construtores\bin\Debug\netcoreapp3.1\Metodos_Construtores.runtimeconfig.json
+C:\Users\olive\Desktop\Metodos_Construtores\bin\Debug\netcoreapp3.1\Metodos_Construtores.runtimeconfig.dev.json
+C:\Users\olive\Desktop\Metodos_Construtores\bin\Debug\netcoreapp3.1\Metodos_Construtores.dll
+C:\Users\olive\Desktop\Metodos_Construtores\bin\Debug\netcoreapp3.1\Metodos_Construtores.pdb
+C:\Users\olive\Desktop\Metodos_Construtores\obj\Debug\netcoreapp3.1\Metodos_Construtores.csprojAssemblyReference.cache
+C:\Users\olive\Desktop\Metodos_Construtores\obj\Debug\netcoreapp3.1\Metodos_Construtores.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\Metodos_Construtores\obj\Debug\netcoreapp3.1\Metodos_Construtores.AssemblyInfo.cs
+C:\Users\olive\Desktop\Metodos_Construtores\obj\Debug\netcoreapp3.1\Metodos_Construtores.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\Metodos_Construtores\obj\Debug\netcoreapp3.1\Metodos_Construtores.dll
+C:\Users\olive\Desktop\Metodos_Construtores\obj\Debug\netcoreapp3.1\Metodos_Construtores.pdb
+C:\Users\olive\Desktop\Metodos_Construtores\obj\Debug\netcoreapp3.1\Metodos_Construtores.genruntimeconfig.cache

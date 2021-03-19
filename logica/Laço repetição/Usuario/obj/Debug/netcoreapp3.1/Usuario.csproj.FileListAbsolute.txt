@@ -1,0 +1,13 @@
+C:\Users\olive\Desktop\Luana\Laço repetição\Usuario\bin\Debug\netcoreapp3.1\Usuario.exe
+C:\Users\olive\Desktop\Luana\Laço repetição\Usuario\bin\Debug\netcoreapp3.1\Usuario.deps.json
+C:\Users\olive\Desktop\Luana\Laço repetição\Usuario\bin\Debug\netcoreapp3.1\Usuario.runtimeconfig.json
+C:\Users\olive\Desktop\Luana\Laço repetição\Usuario\bin\Debug\netcoreapp3.1\Usuario.runtimeconfig.dev.json
+C:\Users\olive\Desktop\Luana\Laço repetição\Usuario\bin\Debug\netcoreapp3.1\Usuario.dll
+C:\Users\olive\Desktop\Luana\Laço repetição\Usuario\bin\Debug\netcoreapp3.1\Usuario.pdb
+C:\Users\olive\Desktop\Luana\Laço repetição\Usuario\obj\Debug\netcoreapp3.1\Usuario.csprojAssemblyReference.cache
+C:\Users\olive\Desktop\Luana\Laço repetição\Usuario\obj\Debug\netcoreapp3.1\Usuario.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\Luana\Laço repetição\Usuario\obj\Debug\netcoreapp3.1\Usuario.AssemblyInfo.cs
+C:\Users\olive\Desktop\Luana\Laço repetição\Usuario\obj\Debug\netcoreapp3.1\Usuario.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\Luana\Laço repetição\Usuario\obj\Debug\netcoreapp3.1\Usuario.dll
+C:\Users\olive\Desktop\Luana\Laço repetição\Usuario\obj\Debug\netcoreapp3.1\Usuario.pdb
+C:\Users\olive\Desktop\Luana\Laço repetição\Usuario\obj\Debug\netcoreapp3.1\Usuario.genruntimeconfig.cache

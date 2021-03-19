@@ -1,0 +1,13 @@
+C:\Users\olive\Desktop\Luana\Backend\Console\Transito\bin\Debug\netcoreapp3.1\Transito.exe
+C:\Users\olive\Desktop\Luana\Backend\Console\Transito\bin\Debug\netcoreapp3.1\Transito.deps.json
+C:\Users\olive\Desktop\Luana\Backend\Console\Transito\bin\Debug\netcoreapp3.1\Transito.runtimeconfig.json
+C:\Users\olive\Desktop\Luana\Backend\Console\Transito\bin\Debug\netcoreapp3.1\Transito.runtimeconfig.dev.json
+C:\Users\olive\Desktop\Luana\Backend\Console\Transito\bin\Debug\netcoreapp3.1\Transito.dll
+C:\Users\olive\Desktop\Luana\Backend\Console\Transito\bin\Debug\netcoreapp3.1\Transito.pdb
+C:\Users\olive\Desktop\Luana\Backend\Console\Transito\obj\Debug\netcoreapp3.1\Transito.csprojAssemblyReference.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\Transito\obj\Debug\netcoreapp3.1\Transito.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\Transito\obj\Debug\netcoreapp3.1\Transito.AssemblyInfo.cs
+C:\Users\olive\Desktop\Luana\Backend\Console\Transito\obj\Debug\netcoreapp3.1\Transito.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\Transito\obj\Debug\netcoreapp3.1\Transito.dll
+C:\Users\olive\Desktop\Luana\Backend\Console\Transito\obj\Debug\netcoreapp3.1\Transito.pdb
+C:\Users\olive\Desktop\Luana\Backend\Console\Transito\obj\Debug\netcoreapp3.1\Transito.genruntimeconfig.cache

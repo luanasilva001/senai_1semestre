@@ -1,0 +1,13 @@
+C:\Users\olive\Desktop\Luana\Backend\Console\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.exe
+C:\Users\olive\Desktop\Luana\Backend\Console\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.deps.json
+C:\Users\olive\Desktop\Luana\Backend\Console\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.runtimeconfig.json
+C:\Users\olive\Desktop\Luana\Backend\Console\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.runtimeconfig.dev.json
+C:\Users\olive\Desktop\Luana\Backend\Console\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.dll
+C:\Users\olive\Desktop\Luana\Backend\Console\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.pdb
+C:\Users\olive\Desktop\Luana\Backend\Console\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.csprojAssemblyReference.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.AssemblyInfo.cs
+C:\Users\olive\Desktop\Luana\Backend\Console\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.dll
+C:\Users\olive\Desktop\Luana\Backend\Console\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.pdb
+C:\Users\olive\Desktop\Luana\Backend\Console\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.genruntimeconfig.cache

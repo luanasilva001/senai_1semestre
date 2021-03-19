@@ -1,0 +1,13 @@
+C:\Users\olive\Desktop\Luana\Backend\Console\Nadador\obj\Debug\netcoreapp3.1\Nadador.csprojAssemblyReference.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\Nadador\obj\Debug\netcoreapp3.1\Nadador.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\Nadador\obj\Debug\netcoreapp3.1\Nadador.AssemblyInfo.cs
+C:\Users\olive\Desktop\Luana\Backend\Console\Nadador\obj\Debug\netcoreapp3.1\Nadador.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\Nadador\bin\Debug\netcoreapp3.1\Nadador.exe
+C:\Users\olive\Desktop\Luana\Backend\Console\Nadador\bin\Debug\netcoreapp3.1\Nadador.deps.json
+C:\Users\olive\Desktop\Luana\Backend\Console\Nadador\bin\Debug\netcoreapp3.1\Nadador.runtimeconfig.json
+C:\Users\olive\Desktop\Luana\Backend\Console\Nadador\bin\Debug\netcoreapp3.1\Nadador.runtimeconfig.dev.json
+C:\Users\olive\Desktop\Luana\Backend\Console\Nadador\bin\Debug\netcoreapp3.1\Nadador.dll
+C:\Users\olive\Desktop\Luana\Backend\Console\Nadador\bin\Debug\netcoreapp3.1\Nadador.pdb
+C:\Users\olive\Desktop\Luana\Backend\Console\Nadador\obj\Debug\netcoreapp3.1\Nadador.dll
+C:\Users\olive\Desktop\Luana\Backend\Console\Nadador\obj\Debug\netcoreapp3.1\Nadador.pdb
+C:\Users\olive\Desktop\Luana\Backend\Console\Nadador\obj\Debug\netcoreapp3.1\Nadador.genruntimeconfig.cache

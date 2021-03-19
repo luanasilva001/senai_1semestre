@@ -1,0 +1,13 @@
+C:\Users\olive\Desktop\Luana\Backend\Console\MDHM\bin\Debug\netcoreapp3.1\MDHM.exe
+C:\Users\olive\Desktop\Luana\Backend\Console\MDHM\bin\Debug\netcoreapp3.1\MDHM.deps.json
+C:\Users\olive\Desktop\Luana\Backend\Console\MDHM\bin\Debug\netcoreapp3.1\MDHM.runtimeconfig.json
+C:\Users\olive\Desktop\Luana\Backend\Console\MDHM\bin\Debug\netcoreapp3.1\MDHM.runtimeconfig.dev.json
+C:\Users\olive\Desktop\Luana\Backend\Console\MDHM\bin\Debug\netcoreapp3.1\MDHM.dll
+C:\Users\olive\Desktop\Luana\Backend\Console\MDHM\bin\Debug\netcoreapp3.1\MDHM.pdb
+C:\Users\olive\Desktop\Luana\Backend\Console\MDHM\obj\Debug\netcoreapp3.1\MDHM.csprojAssemblyReference.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\MDHM\obj\Debug\netcoreapp3.1\MDHM.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\MDHM\obj\Debug\netcoreapp3.1\MDHM.AssemblyInfo.cs
+C:\Users\olive\Desktop\Luana\Backend\Console\MDHM\obj\Debug\netcoreapp3.1\MDHM.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\MDHM\obj\Debug\netcoreapp3.1\MDHM.dll
+C:\Users\olive\Desktop\Luana\Backend\Console\MDHM\obj\Debug\netcoreapp3.1\MDHM.pdb
+C:\Users\olive\Desktop\Luana\Backend\Console\MDHM\obj\Debug\netcoreapp3.1\MDHM.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\olive\Desktop\Objeto_Argumento\bin\Debug\netcoreapp3.1\Objeto_Argumento.exe
+C:\Users\olive\Desktop\Objeto_Argumento\bin\Debug\netcoreapp3.1\Objeto_Argumento.deps.json
+C:\Users\olive\Desktop\Objeto_Argumento\bin\Debug\netcoreapp3.1\Objeto_Argumento.runtimeconfig.json
+C:\Users\olive\Desktop\Objeto_Argumento\bin\Debug\netcoreapp3.1\Objeto_Argumento.runtimeconfig.dev.json
+C:\Users\olive\Desktop\Objeto_Argumento\bin\Debug\netcoreapp3.1\Objeto_Argumento.dll
+C:\Users\olive\Desktop\Objeto_Argumento\bin\Debug\netcoreapp3.1\Objeto_Argumento.pdb
+C:\Users\olive\Desktop\Objeto_Argumento\obj\Debug\netcoreapp3.1\Objeto_Argumento.csprojAssemblyReference.cache
+C:\Users\olive\Desktop\Objeto_Argumento\obj\Debug\netcoreapp3.1\Objeto_Argumento.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\Objeto_Argumento\obj\Debug\netcoreapp3.1\Objeto_Argumento.AssemblyInfo.cs
+C:\Users\olive\Desktop\Objeto_Argumento\obj\Debug\netcoreapp3.1\Objeto_Argumento.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\Objeto_Argumento\obj\Debug\netcoreapp3.1\Objeto_Argumento.dll
+C:\Users\olive\Desktop\Objeto_Argumento\obj\Debug\netcoreapp3.1\Objeto_Argumento.pdb
+C:\Users\olive\Desktop\Objeto_Argumento\obj\Debug\netcoreapp3.1\Objeto_Argumento.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\olive\Desktop\Luana\Backend\Console\Media\obj\Debug\netcoreapp3.1\Media.csprojAssemblyReference.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfo.cs
+C:\Users\olive\Desktop\Luana\Backend\Console\Media\obj\Debug\netcoreapp3.1\Media.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\Luana\Backend\Console\Media\bin\Debug\netcoreapp3.1\Media.exe
+C:\Users\olive\Desktop\Luana\Backend\Console\Media\bin\Debug\netcoreapp3.1\Media.deps.json
+C:\Users\olive\Desktop\Luana\Backend\Console\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.json
+C:\Users\olive\Desktop\Luana\Backend\Console\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.dev.json
+C:\Users\olive\Desktop\Luana\Backend\Console\Media\bin\Debug\netcoreapp3.1\Media.dll
+C:\Users\olive\Desktop\Luana\Backend\Console\Media\bin\Debug\netcoreapp3.1\Media.pdb
+C:\Users\olive\Desktop\Luana\Backend\Console\Media\obj\Debug\netcoreapp3.1\Media.dll
+C:\Users\olive\Desktop\Luana\Backend\Console\Media\obj\Debug\netcoreapp3.1\Media.pdb
+C:\Users\olive\Desktop\Luana\Backend\Console\Media\obj\Debug\netcoreapp3.1\Media.genruntimeconfig.cache

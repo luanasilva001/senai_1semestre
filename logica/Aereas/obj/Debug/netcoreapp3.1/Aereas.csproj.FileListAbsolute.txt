@@ -1,0 +1,13 @@
+C:\Users\olive\Desktop\Aereas\bin\Debug\netcoreapp3.1\Aereas.exe
+C:\Users\olive\Desktop\Aereas\bin\Debug\netcoreapp3.1\Aereas.deps.json
+C:\Users\olive\Desktop\Aereas\bin\Debug\netcoreapp3.1\Aereas.runtimeconfig.json
+C:\Users\olive\Desktop\Aereas\bin\Debug\netcoreapp3.1\Aereas.runtimeconfig.dev.json
+C:\Users\olive\Desktop\Aereas\bin\Debug\netcoreapp3.1\Aereas.dll
+C:\Users\olive\Desktop\Aereas\bin\Debug\netcoreapp3.1\Aereas.pdb
+C:\Users\olive\Desktop\Aereas\obj\Debug\netcoreapp3.1\Aereas.csprojAssemblyReference.cache
+C:\Users\olive\Desktop\Aereas\obj\Debug\netcoreapp3.1\Aereas.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\Aereas\obj\Debug\netcoreapp3.1\Aereas.AssemblyInfo.cs
+C:\Users\olive\Desktop\Aereas\obj\Debug\netcoreapp3.1\Aereas.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\Aereas\obj\Debug\netcoreapp3.1\Aereas.dll
+C:\Users\olive\Desktop\Aereas\obj\Debug\netcoreapp3.1\Aereas.pdb
+C:\Users\olive\Desktop\Aereas\obj\Debug\netcoreapp3.1\Aereas.genruntimeconfig.cache

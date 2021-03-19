@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Objeto_Argumento/1.0.0": {
+        "runtime": {
+          "Objeto_Argumento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Objeto_Argumento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

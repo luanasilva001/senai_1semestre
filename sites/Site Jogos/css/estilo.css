@@ -1,0 +1,233 @@
+ @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@600;700&display=swap');
+ * {
+     margin: 0;
+     padding: 0;
+     border: 0;
+     box-sizing: border-box;
+ }
+ /* MENU */
+ 
+ element.style {
+     display: block;
+ }
+ 
+ .menu {
+     background-color: #D96299;
+     height: 60px;
+ }
+ 
+ .menu a {
+     color: black;
+ }
+ 
+ .menu ul {
+     display: flex;
+     justify-content: space-around;
+ }
+ 
+ .menu li {
+     text-transform: uppercase;
+     font-size: 22px;
+     font-family: 'Titillium Web', sans-serif;
+     list-style-type: none;
+     margin-top: 15px;
+     color: black;
+ }
+ 
+ .menu li:hover {
+     background-color: blueviolet;
+     transition: 0.2s;
+     transform: scale(1.1);
+ }
+ 
+ #btnmenu {
+     display: none;
+ }
+ /* FIM MENU */
+ 
+ .flex-bt-center {
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+ }
+ /* BANNER */
+ 
+ .banner-principal {
+     background-color: #47001B;
+     width: 100%;
+ }
+ 
+ .texto-banner {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     float: right;
+     margin-top: 7%;
+ }
+ 
+ .banner h1 {
+     color: #BF045B;
+     text-transform: uppercase;
+     font-family: 'Titillium Web', sans-serif;
+     font-weight: bold;
+     font-size: 55px;
+ }
+ 
+ .banner a {
+     background-color: #7b344f;
+     text-decoration: none;
+     color: black;
+     font-family: 'Titillium Web', sans-serif;
+     text-transform: uppercase;
+     text-align: center;
+     font-size: 2.676em;
+     margin-top: 0.268em;
+ }
+ 
+ .principal {
+     width: 31%;
+     margin-left: 65px;
+ }
+ 
+ .eplayers {
+     width: 70%;
+     margin-top: 1.56em
+ }
+ /* FIM BANNER */
+ /* JOGOS */
+ 
+ .jogos {
+     background-color: #D96299;
+     width: 100%;
+     /* height: 133px; */
+     justify-content: space-around;
+ }
+ 
+ .jogos img {
+     justify-content: space-around;
+     width: 9%;
+     align-items: center;
+ }
+ 
+ .jogos img:hover {
+     transform: scale(1.1);
+ }
+ /* FIM JOGOS */
+ /* INFORMACOES */
+ 
+ .sobre h2 {
+     font-family: 'Bebas Neue', cursive;
+     color: #F9003D;
+     font-size: 64px;
+     padding-top: 60px;
+     padding-bottom: 60px;
+ }
+ 
+ .artigo-sobre {
+     display: flex;
+     justify-content: space-evenly;
+     margin-top: 2%;
+ }
+ 
+ .artigo-sobre img {
+     max-width: 70%;
+     width: 66%;
+     margin-left: 15%;
+     flex-wrap: wrap;
+ }
+ 
+ .artigo-text-sobre {
+     width: 50%;
+     color: black;
+     margin-right: 9%;
+ }
+ 
+ .artigo-text-sobre h3 {
+     font-family: 'Courier Prime', monospace;
+     font-size: 28px;
+     text-transform: uppercase;
+     text-align: center;
+ }
+ 
+ .artigo-text-sobre p {
+     font-family: 'Open Sans', sans-serif;
+     font-size: 18px;
+     line-height: 28px;
+     text-align: justify;
+ }
+ /* .btn {
+     color: white;
+     border: none;
+     text-decoration: none;
+     padding: 0.2em;
+     cursor: pointer;
+ } */
+ /* RESPONSIVIDADE */
+ 
+ @media screen and (max-width: 1199px) {
+     .principal {
+         width: 33%;
+     }
+     .texto-banner {
+         margin: 5% 0px 0px 0px;
+     }
+     .artigo-sobre {
+         flex-wrap: wrap;
+     }
+     .artigo-text-sobre p {
+         width: 150%;
+         margin: 0 0 0 -72px;
+     }
+ }
+ 
+ @media screen and (max-width: 767px) {
+     .menu {
+         width: 100%;
+     }
+     .menu ul {
+         width: 100%;
+         /* height: 350px; */
+         background-color: #000;
+         position: absolute;
+         top: 60px;
+         flex-direction: column;
+         justify-content: space-around;
+         z-index: 99;
+         text-align: center;
+     }
+     .menu a {
+         color: white;
+     }
+     .menu li:hover {
+         display: none;
+     }
+     #btnMenu {
+         display: flex;
+         align-items: flex-end;
+         justify-content: flex-end;
+         position: absolute;
+         left: 95%;
+         top: 3%;
+         cursor: pointer;
+     }
+     .texto-banner {
+         margin: 0 0 0 0;
+     }
+     .principal {
+         margin-left: 0;
+     }
+     .eplayers {
+         display: none;
+     }
+     .banner h1 {
+         font-size: 30px;
+         margin-top: 7%;
+     }
+     .banner a {
+         font-size: 1.676em;
+     }
+     .artigo-text-sobre p {
+         width: 88%;
+         margin: 0 0 0 50px;
+     }
+ }

@@ -1,0 +1,13 @@
+C:\Users\olive\Desktop\Luana\Nota0a10\bin\Debug\netcoreapp3.1\Nota0a10.exe
+C:\Users\olive\Desktop\Luana\Nota0a10\bin\Debug\netcoreapp3.1\Nota0a10.deps.json
+C:\Users\olive\Desktop\Luana\Nota0a10\bin\Debug\netcoreapp3.1\Nota0a10.runtimeconfig.json
+C:\Users\olive\Desktop\Luana\Nota0a10\bin\Debug\netcoreapp3.1\Nota0a10.runtimeconfig.dev.json
+C:\Users\olive\Desktop\Luana\Nota0a10\bin\Debug\netcoreapp3.1\Nota0a10.dll
+C:\Users\olive\Desktop\Luana\Nota0a10\bin\Debug\netcoreapp3.1\Nota0a10.pdb
+C:\Users\olive\Desktop\Luana\Nota0a10\obj\Debug\netcoreapp3.1\Nota0a10.csprojAssemblyReference.cache
+C:\Users\olive\Desktop\Luana\Nota0a10\obj\Debug\netcoreapp3.1\Nota0a10.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\Luana\Nota0a10\obj\Debug\netcoreapp3.1\Nota0a10.AssemblyInfo.cs
+C:\Users\olive\Desktop\Luana\Nota0a10\obj\Debug\netcoreapp3.1\Nota0a10.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\Luana\Nota0a10\obj\Debug\netcoreapp3.1\Nota0a10.dll
+C:\Users\olive\Desktop\Luana\Nota0a10\obj\Debug\netcoreapp3.1\Nota0a10.pdb
+C:\Users\olive\Desktop\Luana\Nota0a10\obj\Debug\netcoreapp3.1\Nota0a10.genruntimeconfig.cache
